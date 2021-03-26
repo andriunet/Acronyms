@@ -1,0 +1,6 @@
+module Pods_Acronym {
+  umbrella header "Pods-Acronym-umbrella.h"
+
+  export *
+  module * { export * }
+}
